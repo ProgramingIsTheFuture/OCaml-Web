@@ -1,0 +1,3 @@
+(library
+ (name controller)
+ (libraries dream view model))

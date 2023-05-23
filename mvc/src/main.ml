@@ -1,0 +1,1 @@
+let () = Controller.Routes.routes ()

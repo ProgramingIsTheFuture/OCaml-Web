@@ -1,0 +1,5 @@
+(library
+ (name view)
+ (libraries tyxml model dream)
+ (preprocess
+  (pps lwt_ppx)))
